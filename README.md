@@ -2,7 +2,7 @@
 
 Welcome to The Creator, an interactive Swift programming guide crafted for new coders and those looking to reinforce their fundamentals.
 
-![Swift Programming Language](https://img.shields.io/badge/Swift-5.3-orange.svg)
+![Swift Programming Language](https://img.shields.io/badge/Swift-5.7-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
