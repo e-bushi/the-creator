@@ -1,4 +1,4 @@
-# The Creator - Building Swift Applications from Scratch 
+# The Creator - Swift For Beginners 
 
 Welcome to The Creator, an interactive Swift programming guide crafted for new coders and those looking to reinforce their fundamentals.
 
